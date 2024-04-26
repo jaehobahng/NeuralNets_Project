@@ -1,4 +1,4 @@
-# NeuralNets_Project
+# Amazon Price Prediction with Images
 
 ## Project workflow
 1. Read in csv file

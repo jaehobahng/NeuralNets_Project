@@ -1,5 +1,7 @@
 # Amazon Price Prediction with Images
 
+Original Dataset : https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
+
 ## Project workflow
 1. Read in csv file
 2. Filter unavailable url
